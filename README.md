@@ -20,6 +20,6 @@ Please insert the name of the demo file ('Demo.csv') to 'Filename'
 CTRL + A - highlight all lines of the code 
 Press 'Run' in the Editor
 In 1-2 minutes, the program output the followings:
-*Figure - indicating the whole fiber photometry trace for the total length of the recording with the peaks (synchronization episodes) that have been detected over threshold (by blue triangles)
+* Figure - indicating the whole fiber photometry trace for the total length of the recording with the peaks (synchronization episodes) that have been detected over threshold (by blue triangles)
 * Excel table: 'TableBS....' : downsampled data series. TSxDS: time scale (s); NormGCaMPfitted: baseline-fitted fluorescence data after backgroung subtracton and baseline-fitting; NormTSGCaMP: z-scored baseline-fitted GCaMP data
 * Excel table: 'TableFWHM....' : 
