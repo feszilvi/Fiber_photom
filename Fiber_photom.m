@@ -7,8 +7,8 @@ clear all;
 close all;
 
 %% Please adjust parameters
-FilePath = 'C:\Users\feszi\OneDrive - University of Cambridge\Desktop\Herbison lab\Photometry\1__DREADD_NA\Paper\Submission\to submit\Fiber_photom';
-Filename = {'AHAP6.1h_#78_PPAP BL@8-31_CNO 3mgkg_05-01-2022.csv'}; 
+FilePath = 'C:\......';
+Filename = {'Demo.csv'}; 
 minPeakDistance = 30; % minimum peak distance in second unit x 20 second (each data point)
 %------------------------------------------------------------------------
 dataEstimationTime = 10; % temporal resolution in Hz
